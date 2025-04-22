@@ -1,10 +1,10 @@
-# CC Simulator: Modern RL-based Congestion Control
+# Aurora CC Simulator
 
 A modern implementation of Aurora congestion control using PyTorch, RLlib, and Gymnasium.
 
 ## Overview
 
-This package provides a modern implementation of the Aurora congestion control algorithm, originally proposed in the paper "A Deep Reinforcement Learning Perspective on Internet Congestion Control" (ICML 2019). The implementation upgrades the original codebase to use:
+This package provides a modern implementation of the Aurora, originally proposed in the paper "A Deep Reinforcement Learning Perspective on Internet Congestion Control" (ICML 2019). The implementation upgrades the original codebase [PCC-RL](https://github.com/PCCproject/PCC-RL) to use:
 
 - **PyTorch**: Modern deep learning framework
 - **RLlib**: Scalable reinforcement learning library
