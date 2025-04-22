@@ -94,7 +94,7 @@ python -m cc_simulator.evaluate_traces \
 If you use this code, please cite the original Aurora paper:
 
 ```
-@InProceedings{PCC-RL,
+@InProceedings{Jay_Aurora_2019,
   title = 	 {A Deep Reinforcement Learning Perspective on Internet Congestion Control},
   author = 	 {Jay, Nathan and Rotman, Noga and Godfrey, Brighten and Schapira, Michael and Tamar, Aviv},
   booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning},
@@ -113,5 +113,13 @@ If you use this code, please cite the original Aurora paper:
 and this github repo:
 
 ```
-
+@software{Zhao_rl-based-congestion-control_2025,
+author = {Zhao, Wanyu},
+doi = {10.5281/zenodo.1234},
+month = apr,
+title = {{rl-based-congestion-control}},
+url = {https://github.com/wy-go/rl-based-congestion-control},
+version = {1.0.0},
+year = {2025}
+}
 ```
