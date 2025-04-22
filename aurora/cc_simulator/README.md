@@ -16,10 +16,7 @@ Aurora is a Reinforcement Learning (RL) based congestion control algorithm that 
 
 This upgraded implementation offers several improvements:
 
-- **Distributed Training**: Scale across multiple GPUs/machines with RLlib
-- **Modern ML Framework**: Better performance and GPU utilization with PyTorch
-- **Type Annotations**: Comprehensive typing for better code understanding
-- **Modular Design**: Clean separation of concerns for easier extension
+- **Modern ML Framework and Modular Design**: PyTorch, RLlib and Gymnasium
 - **Well-documented API**: Detailed docstrings and parameter descriptions
 
 ## Project Structure
